@@ -1,0 +1,74 @@
+PE = 16 (3)=13
+UE = 16 (4)=12
+
+--------------------------------------------
+PC:
+
+DLD ECE1003
+ADC ECE2001
+PROBABILITY ECE1010
+SEMICONDUCTOR PHYSICS PHY1002
+APPLIED ELECTROMAGNETICS PHY2001
+SIGNALS AND SYSTEMS ECE2005
+COMMUNICATION SYSTEMS ECE2006
+MPMC ECE2014
+LICA ECE3001
+---------------------------------------------
+
+---------------------------------------------
+UC:
+
+ECS1
+ECS2
+SUMMER INTERNSHIP
+*CAPSTONE
+*INDUSTRIAL INTERNSHIP/SENIOR DESIGN PROJECT
+
+PYTHON CSE1012
+OOPS JAVA CSE2005
+DSA CSE2001
+FEEE ECE1001
+
+DT TEC3001
+ENTREPRENEURSHIP MGT2015
+ETHICS AND VALUES MGT1001
+STS1002 1-1
+STS1007 1-2
+STS2006 2-1
+STS2007 2-2
+
+ENGLISH1 ENG1001
+ENGLISH2 ENG1002
+
+FRENCH FRL1001
+
+SOFTWARE ENGINEERING CSE1005
+
+CALCULUS MAT1001
+DIFFERENTIATION MAT1002
+APPLIED STATISTICS MAT1011
+PRINCIPLES OF ELECTRONICS PHY1002
+CHEMISTRY CHY1009
+----------------------------------------------
+
+----------------------------------------------
+PE:
+DSP ECE2007
+C ECE
+-----------------------------------------------
+
+-----------------------------------------------
+UE:
+DIP CSE4007
+
+-----------------------------------------------
+
+-----------------------------------------------
+DYOD:
+DMS MAT1003
+CN CSE3003
+COA ECE2002
+OS CSE2008
+DBMS CSE2007
+-----------------------------------------------
+
