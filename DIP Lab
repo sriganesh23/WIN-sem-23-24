@@ -1,11 +1,155 @@
-DIP Lab
+**DIP Lab**
 
-Image processing Onramp 				              5
-study of different transformation technique		10
-spatial domain filtering of image			        10
-frequency domain filtering of image			      10
-study of sharpening image			              	5
-image restoration process			              	5
-handling noise in image 			              	5
-image compression mthods			              	5
-image segmentation through boundary detection	5
+Image processing Onramp 				                  5
+study of different transformation technique		    10
+spatial domain filtering of image			            10
+frequency domain filtering of image			          10
+study of sharpening image			                  	5
+image restoration process			                  	5
+handling noise in image 			                  	5
+image compression mthods			                  	5
+image segmentation through boundary detection    	5
+
+
+
+
+1. study of different transformation technique		    
+  a. image type conversion
+  b. image resize
+  c. image rotation
+  d. image negative
+
+2. spatial domain filtering of image
+  a. contract stretching
+  b. histogram equalization
+
+3. spatial domain filtering of an image
+  a. average (mean) filter
+  b. median filter
+
+4. study of sharpening filter
+  a. laplacian for image sharpening
+  b. unsharp masking
+
+5. frequency domain filtering of an image
+  a. lowpass (smoothing) filter in frequency domain
+
+6. iamge restoration process: handling noise in image
+  a. arithmetic, geometric, harmonic, contra harmonic mean filtering
+  b. median filtering
+  c. max filter, min filter
+  d. alpha-trimmed mean filtering
+
+7. image restoration process: handling noise in image
+  a. wiener filter
+  b. adaptive mean local noise reduction filter
+  c. adaptive median filter
+
+8. image compression methods
+  a. compress an image using DCT, then calculate PSNR to evaluate quality of the compressed image
+
+9. image segmentation through edge/boundary detection
+  a. sobel edge detection
+  b. canny edge detection
+  c. laplacian of gaussian (LOG)
+
+10. region based image segmentation 
+  a. Bi-level thhresholding
+  b. multi-level thresholding 
+  c. region growing
+  d. region splitting and merging
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+spatial domain filtering of image			            
+frequency domain filtering of image			          
+study of sharpening image			                  	
+image restoration process			                  	
+handling noise in image 			                  	
+image compression mthods			                  	
+image segmentation through boundary detection    	
